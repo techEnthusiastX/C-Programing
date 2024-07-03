@@ -1,0 +1,8 @@
+c:\users\91902\documents\visual studio 2010\Projects\BinaryOperatorOverloading\BinaryOperatorOverloading\bin\Debug\BinaryOperatorOverloading.exe
+c:\users\91902\documents\visual studio 2010\Projects\BinaryOperatorOverloading\BinaryOperatorOverloading\bin\Debug\BinaryOperatorOverloading.pdb
+c:\users\91902\documents\visual studio 2010\Projects\BinaryOperatorOverloading\BinaryOperatorOverloading\obj\x86\Debug\BinaryOperatorOverloading.exe
+c:\users\91902\documents\visual studio 2010\Projects\BinaryOperatorOverloading\BinaryOperatorOverloading\obj\x86\Debug\BinaryOperatorOverloading.pdb
+C:\Users\91902\Desktop\C# POE\C# Project File\BinaryOperatorOverloading\BinaryOperatorOverloading\obj\x86\Debug\BinaryOperatorOverloading.exe
+C:\Users\91902\Desktop\C# POE\C# Project File\BinaryOperatorOverloading\BinaryOperatorOverloading\obj\x86\Debug\BinaryOperatorOverloading.pdb
+C:\Users\91902\Desktop\C# POE\C# Project File\BinaryOperatorOverloading\BinaryOperatorOverloading\bin\Debug\BinaryOperatorOverloading.exe
+C:\Users\91902\Desktop\C# POE\C# Project File\BinaryOperatorOverloading\BinaryOperatorOverloading\bin\Debug\BinaryOperatorOverloading.pdb
