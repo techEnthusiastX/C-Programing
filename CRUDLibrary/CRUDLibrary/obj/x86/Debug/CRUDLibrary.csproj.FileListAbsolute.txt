@@ -1,0 +1,18 @@
+C:\Users\91902\Documents\Visual Studio 2010\Projects\CRUDLibrary\CRUDLibrary\bin\Debug\CRUDLibrary.exe.config
+C:\Users\91902\Documents\Visual Studio 2010\Projects\CRUDLibrary\CRUDLibrary\bin\Debug\CRUDLibrary.exe
+C:\Users\91902\Documents\Visual Studio 2010\Projects\CRUDLibrary\CRUDLibrary\bin\Debug\CRUDLibrary.pdb
+C:\Users\91902\Documents\Visual Studio 2010\Projects\CRUDLibrary\CRUDLibrary\obj\x86\Debug\CRUDLibrary.csprojResolveAssemblyReference.cache
+C:\Users\91902\Documents\Visual Studio 2010\Projects\CRUDLibrary\CRUDLibrary\obj\x86\Debug\CRUDLibrary.Form1.resources
+C:\Users\91902\Documents\Visual Studio 2010\Projects\CRUDLibrary\CRUDLibrary\obj\x86\Debug\CRUDLibrary.Properties.Resources.resources
+C:\Users\91902\Documents\Visual Studio 2010\Projects\CRUDLibrary\CRUDLibrary\obj\x86\Debug\CRUDLibrary.csproj.GenerateResource.Cache
+C:\Users\91902\Documents\Visual Studio 2010\Projects\CRUDLibrary\CRUDLibrary\obj\x86\Debug\CRUDLibrary.exe
+C:\Users\91902\Documents\Visual Studio 2010\Projects\CRUDLibrary\CRUDLibrary\obj\x86\Debug\CRUDLibrary.pdb
+C:\Users\91902\Desktop\C# POE\C# Project File\CRUDLibrary\CRUDLibrary\bin\Debug\CRUDLibrary.exe.config
+C:\Users\91902\Desktop\C# POE\C# Project File\CRUDLibrary\CRUDLibrary\obj\x86\Debug\CRUDLibrary.exe
+C:\Users\91902\Desktop\C# POE\C# Project File\CRUDLibrary\CRUDLibrary\obj\x86\Debug\CRUDLibrary.pdb
+C:\Users\91902\Desktop\C# POE\C# Project File\CRUDLibrary\CRUDLibrary\bin\Debug\CRUDLibrary.exe
+C:\Users\91902\Desktop\C# POE\C# Project File\CRUDLibrary\CRUDLibrary\bin\Debug\CRUDLibrary.pdb
+C:\Users\91902\Desktop\C# POE\C# Project File\CRUDLibrary\CRUDLibrary\obj\x86\Debug\CRUDLibrary.csprojResolveAssemblyReference.cache
+C:\Users\91902\Desktop\C# POE\C# Project File\CRUDLibrary\CRUDLibrary\obj\x86\Debug\CRUDLibrary.Form1.resources
+C:\Users\91902\Desktop\C# POE\C# Project File\CRUDLibrary\CRUDLibrary\obj\x86\Debug\CRUDLibrary.Properties.Resources.resources
+C:\Users\91902\Desktop\C# POE\C# Project File\CRUDLibrary\CRUDLibrary\obj\x86\Debug\CRUDLibrary.csproj.GenerateResource.Cache
