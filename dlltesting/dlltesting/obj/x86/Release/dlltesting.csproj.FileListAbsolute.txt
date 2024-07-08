@@ -1,0 +1,10 @@
+C:\Users\91902\Documents\Visual Studio 2010\Projects\dlltesting\dlltesting\bin\Release\dlltesting.exe
+C:\Users\91902\Documents\Visual Studio 2010\Projects\dlltesting\dlltesting\bin\Release\dlltesting.pdb
+C:\Users\91902\Documents\Visual Studio 2010\Projects\dlltesting\dlltesting\bin\Release\TestingDll.dll
+C:\Users\91902\Documents\Visual Studio 2010\Projects\dlltesting\dlltesting\bin\Release\TestingDll.pdb
+C:\Users\91902\Documents\Visual Studio 2010\Projects\dlltesting\dlltesting\obj\x86\Release\dlltesting.csprojResolveAssemblyReference.cache
+C:\Users\91902\Documents\Visual Studio 2010\Projects\dlltesting\dlltesting\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\91902\Documents\Visual Studio 2010\Projects\dlltesting\dlltesting\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\91902\Documents\Visual Studio 2010\Projects\dlltesting\dlltesting\obj\x86\Release\dlltesting.csproj.GenerateResource.Cache
+C:\Users\91902\Documents\Visual Studio 2010\Projects\dlltesting\dlltesting\obj\x86\Release\dlltesting.exe
+C:\Users\91902\Documents\Visual Studio 2010\Projects\dlltesting\dlltesting\obj\x86\Release\dlltesting.pdb

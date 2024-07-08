@@ -1,0 +1,10 @@
+C:\Users\91902\Documents\Visual Studio 2010\Projects\dlltesting\dlltesting\bin\Debug\dlltesting.exe
+C:\Users\91902\Documents\Visual Studio 2010\Projects\dlltesting\dlltesting\bin\Debug\dlltesting.pdb
+C:\Users\91902\Documents\Visual Studio 2010\Projects\dlltesting\dlltesting\bin\Debug\TestingDll.dll
+C:\Users\91902\Documents\Visual Studio 2010\Projects\dlltesting\dlltesting\bin\Debug\TestingDll.pdb
+C:\Users\91902\Documents\Visual Studio 2010\Projects\dlltesting\dlltesting\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\91902\Documents\Visual Studio 2010\Projects\dlltesting\dlltesting\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\91902\Documents\Visual Studio 2010\Projects\dlltesting\dlltesting\obj\x86\Debug\dlltesting.csproj.GenerateResource.Cache
+C:\Users\91902\Documents\Visual Studio 2010\Projects\dlltesting\dlltesting\obj\x86\Debug\dlltesting.exe
+C:\Users\91902\Documents\Visual Studio 2010\Projects\dlltesting\dlltesting\obj\x86\Debug\dlltesting.pdb
+C:\Users\91902\Documents\Visual Studio 2010\Projects\dlltesting\dlltesting\obj\x86\Debug\dlltesting.csprojResolveAssemblyReference.cache
