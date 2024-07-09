@@ -1,0 +1,11 @@
+c:\users\91902\documents\visual studio 2010\Projects\DownloadFile\DownloadFile\obj\x86\Debug\DownloadFile.Form1.resources
+c:\users\91902\documents\visual studio 2010\Projects\DownloadFile\DownloadFile\obj\x86\Debug\DownloadFile.Properties.Resources.resources
+c:\users\91902\documents\visual studio 2010\Projects\DownloadFile\DownloadFile\obj\x86\Debug\DownloadFile.csproj.GenerateResource.Cache
+c:\users\91902\documents\visual studio 2010\Projects\DownloadFile\DownloadFile\bin\Debug\DownloadFile.exe
+c:\users\91902\documents\visual studio 2010\Projects\DownloadFile\DownloadFile\bin\Debug\DownloadFile.pdb
+c:\users\91902\documents\visual studio 2010\Projects\DownloadFile\DownloadFile\obj\x86\Debug\DownloadFile.exe
+c:\users\91902\documents\visual studio 2010\Projects\DownloadFile\DownloadFile\obj\x86\Debug\DownloadFile.pdb
+C:\Users\91902\Desktop\C# POE\C# Project File\DownloadFile\DownloadFile\obj\x86\Debug\DownloadFile.exe
+C:\Users\91902\Desktop\C# POE\C# Project File\DownloadFile\DownloadFile\obj\x86\Debug\DownloadFile.Form1.resources
+C:\Users\91902\Desktop\C# POE\C# Project File\DownloadFile\DownloadFile\obj\x86\Debug\DownloadFile.Properties.Resources.resources
+C:\Users\91902\Desktop\C# POE\C# Project File\DownloadFile\DownloadFile\obj\x86\Debug\DownloadFile.csproj.GenerateResource.Cache
