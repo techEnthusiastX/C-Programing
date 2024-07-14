@@ -1,0 +1,4 @@
+c:\users\91902\documents\visual studio 2010\Projects\encapsulation\encapsulation\bin\Debug\encapsulation.exe
+c:\users\91902\documents\visual studio 2010\Projects\encapsulation\encapsulation\bin\Debug\encapsulation.pdb
+c:\users\91902\documents\visual studio 2010\Projects\encapsulation\encapsulation\obj\x86\Debug\encapsulation.exe
+c:\users\91902\documents\visual studio 2010\Projects\encapsulation\encapsulation\obj\x86\Debug\encapsulation.pdb
