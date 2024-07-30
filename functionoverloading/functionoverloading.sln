@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "functionoverloading", "functionoverloading\functionoverloading.csproj", "{255F7A13-18BA-46D9-BABF-7060F40EBCF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{255F7A13-18BA-46D9-BABF-7060F40EBCF6}.Debug|x86.ActiveCfg = Debug|x86
+		{255F7A13-18BA-46D9-BABF-7060F40EBCF6}.Debug|x86.Build.0 = Debug|x86
+		{255F7A13-18BA-46D9-BABF-7060F40EBCF6}.Release|x86.ActiveCfg = Release|x86
+		{255F7A13-18BA-46D9-BABF-7060F40EBCF6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
