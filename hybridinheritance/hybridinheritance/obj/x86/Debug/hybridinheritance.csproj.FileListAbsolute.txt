@@ -1,0 +1,4 @@
+c:\users\91902\documents\visual studio 2010\Projects\hybridinheritance\hybridinheritance\bin\Debug\hybridinheritance.exe
+c:\users\91902\documents\visual studio 2010\Projects\hybridinheritance\hybridinheritance\bin\Debug\hybridinheritance.pdb
+c:\users\91902\documents\visual studio 2010\Projects\hybridinheritance\hybridinheritance\obj\x86\Debug\hybridinheritance.exe
+c:\users\91902\documents\visual studio 2010\Projects\hybridinheritance\hybridinheritance\obj\x86\Debug\hybridinheritance.pdb
